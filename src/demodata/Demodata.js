@@ -1,0 +1,35 @@
+export const imagess=[
+    {
+      id:0,
+      image:require('../assets/banner2.jpeg'),
+    },
+    {
+      id:1,
+      image:require('../assets/banner1.jpeg'),
+    },
+    {
+      id:3,
+      image:require('../assets/main.jpeg'),
+    },
+    {
+      id:4,
+      image:require('../assets/main.jpeg'),
+    },
+    {
+      id:5,
+      image:require('../assets/main.jpeg'),
+    },
+    {
+      id:6,
+      image:require('../assets/main.jpeg'),
+    },
+    {
+      id:7,
+      image:require('../assets/main.jpeg'),
+    },
+    {
+      id:8,
+      image:require('../assets/main.jpeg'),
+    },
+   
+   ]
